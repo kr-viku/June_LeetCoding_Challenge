@@ -10,4 +10,4 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #     |              Title            |          Solutions          |     Language     |     Difficulty    | Tag              
 |------------|-------------------------------|-------------------------------|------------------|-------------------|---------------------
-| Day 01 | [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | [ Week 1 Day 01 Solution ](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | Python | Easy | Tree 
+| Day 01 | [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | [ Week 1 Day 01 Solution ](https://github.com/kr-viku/June_LeetCoding_Challenge/blob/master/Week_1_Day_01.py) | Python | Easy | Tree 
