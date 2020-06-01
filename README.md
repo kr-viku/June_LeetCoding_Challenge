@@ -8,6 +8,6 @@ _If you like this project, please leave me a star._ &#9733;
 ### Recent: Leetcode May Challenge
 #### Week 1: June 1st - June 7th 
 
-|  #  |      Title     |   Solutions   |     Language     |     Difficulty    | Tag              
-|-----|----------------|---------------|------------------|-------------------|-------------
-| Day 01 | [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/ | Python | Easy | Tree 
+|  #     |              Title            |          Solutions          |     Language     |     Difficulty    | Tag              
+|--------|-------------------------------|-----------------------------|------------------|-------------------|---------------------
+| Day 01 | [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | [Week 1 Day 01](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | Python | Easy | Tree 
