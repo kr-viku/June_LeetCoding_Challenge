@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/)
+# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://github.com/kr-viku/June_LeetCoding_Challenge/blob/master/LICENSE)](LICENSE.md) 
 
 _If you like this project, please leave me a star._ &#9733;
 
