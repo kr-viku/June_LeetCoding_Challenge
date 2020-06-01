@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg](LICENSE.md) 
+# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) 
 
 _If you like this project, please leave me a star._ &#9733;
 
