@@ -8,6 +8,7 @@ _If you like this project, please leave me a star._ &#9733;
 ### Recent: Leetcode June Challenge 
 #### Week 1: June 1st - June 7th (Solution✌ 👇👇👇)
 
-|  #     |              Title            |          Solutions          |     Language     |     Difficulty    | Tag              
-|------------|-------------------------------|-------------------------------|------------------|-------------------|---------------------
-| Day 01 | [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | [ Week 1 Day 01 Solution ](https://github.com/kr-viku/June_LeetCoding_Challenge/blob/master/Week_1_Day_01.py) | Python | Easy | Tree 
+|  #     |              Title            |          Python Solutions          |     Java Solution     |     Difficulty    | Tag              
+|------------|-------------------------------|----------------------------------|----------------------|-------------------|---------------------
+| Day 01 | [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | [ Week_1-Day_01.py ](https://github.com/kr-viku/June_LeetCoding_Challenge/blob/master/Week_1_Day_01.py) | [Week_1-Day_01.java](https://github.com/GHATAK123/June-LeetCode-Challenge./blob/master/invert_binary_tree_June_1.java) | Easy | Tree 
+| Day 02 | [Delete Node in a Linked List](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/) | [Week_1-Day_02.py](https://github.com/kr-viku/June_LeetCoding_Challenge/blob/master/Week_1_Day_02.py)| [Week_1-Day_02.java](https://github.com/GHATAK123/June-LeetCode-Challenge./blob/master/delete_node_in_singly_linked_List_june_2.java) | Easy | LinkedList 
