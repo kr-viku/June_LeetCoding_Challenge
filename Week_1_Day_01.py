@@ -10,15 +10,3 @@ class Solution:
         root.left, root.right = self.invertTree(root.right), self.invertTree(root.left)
 
         return root
-    
-# New Solution in Java for this problem
-public TreeNode invertTree(TreeNode root) {
-    if (root == null) {
-        return null;
-    }
-    TreeNode right = invertTree(root.right);
-    TreeNode left = invertTree(root.left);
-    root.left = right;
-    root.right = left;
-    return root;
-}
