@@ -18,7 +18,7 @@
 - **Step 3** - Resolve the bugs, mentions provided in the Issues section of the repository. *Also add a description of what changes you have done*.
 - **Step 4** - Add the changes to your repository.
 - **Step 5** - Create a PULL Request. And that's all.
-- **NOTE** - Please start the filename with the platform name on which the problem was solved. For eg if you are submitting graph problem from codechef then mention filename as **(CODECHEF) chefandgraph.cpp**.
+- **NOTE** - Please start the filename with the platform name on which the problem was solved. For eg if you are submitting graph problem from codechef then mention filename as **(Week_1_Day_01).py**.
 
 ### What you can contribute in this repo? :punch:
 - You can add your own competitive programming solutions. 
